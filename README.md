@@ -1,10 +1,8 @@
-## Students, remove the above text and modify the below, following the instructions.
-
 ## Who Am I?
 
 TODO: Add your name, student id, and easy email link here, formatted as a unordered list.
 
-* Keeth Christy Alphones
+* ✏ Keeth Christy Alphones
 * 104024402
 * 104024402@student.swin.edu.au
 
