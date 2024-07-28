@@ -1,8 +1,6 @@
 ## Who Am I?
 
-TODO: Add your name, student id, and easy email link here, formatted as a unordered list.
-
-* ✏  Keeth Christy Alphones
+* ✏  Keeth Christy Alphones (Not the GOAT)
 * 🆔 104024402
 * 📧 104024402@student.swin.edu.au
 
@@ -21,9 +19,9 @@ TODO: Add your name, student id, and easy email link here, formatted as a unorde
   * Do add your documentation to the repo as well - it's not just for code.
 * We have provided a basic .gitignore file. You may not see it if your OS hides "hidden" files like this starting with a period. If you don't know about .gitignore files, you should learn about them. It helps you avoid filling your repository with unnecessary files and possibly running out of space.
 
-## Quick Links:
+## I'll add proper stuff later 🚨:
 
-* ![Dancing](https://github.com/keethchristy/COS30002-104024402/blob/main/Extra%20Crap/johnny-bolt-dancing.gif)
-*
+![Dancing](https://github.com/keethchristy/COS30002-104024402/blob/main/Extra%20Crap/johnny-bolt-dancing.gif)
+
 
 
