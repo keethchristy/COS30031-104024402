@@ -23,7 +23,7 @@ TODO: Add your name, student id, and easy email link here, formatted as a unorde
 
 ## Quick Links:
 
-* ![Test](https://tenor.com/bXkSR.gif)
+* ![Dancing](https://github.com/keethchristy/COS30002-104024402/blob/main/Extra%20Crap/johnny-bolt-dancing.gif)
 *
 
 
