@@ -1,11 +1,13 @@
-# GP-base
-The base repository for Games Programming @ Swinburne University. Students are expected to fork the repository to do their coursework. Pull requests from students &amp; tutors for bug fixes, suggestions, etc. welcome!
-
 ## Students, remove the above text and modify the below, following the instructions.
 
 ## Who Am I?
 
 TODO: Add your name, student id, and easy email link here, formatted as a unordered list.
+
+* Keeth Christy Alphones
+* 104024402
+* 104024402@student.swin.edu.au
+
 
 ## Purpose
 
