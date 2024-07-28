@@ -2,9 +2,9 @@
 
 TODO: Add your name, student id, and easy email link here, formatted as a unordered list.
 
-✏  Keeth Christy Alphones
-🆔 104024402
-📧 104024402@student.swin.edu.au
+* ✏  Keeth Christy Alphones
+* 🆔 104024402
+* 📧 104024402@student.swin.edu.au
 
 
 ## Purpose
@@ -21,23 +21,9 @@ TODO: Add your name, student id, and easy email link here, formatted as a unorde
   * Do add your documentation to the repo as well - it's not just for code.
 * We have provided a basic .gitignore file. You may not see it if your OS hides "hidden" files like this starting with a period. If you don't know about .gitignore files, you should learn about them. It helps you avoid filling your repository with unnecessary files and possibly running out of space.
 
-## Anything Else?
+## Quick Links:
 
-TODO: You can use this file as a quick way to get to useful locations in your repository, links to resources/notes and other handy details. It is here for you.
+* ![Test](https://tenor.com/bXkSR.gif)
+*
 
-TODO: You can delete all the text we have put here to start with, but keep the essential "who am I" details in some form.
 
-A useful "README" file is considered a good practice for shared or world-visible repositories, so it makes sense to get into the
-habit for this unit. However, please keep in mind that this repository should NOT be made visible to the world.
-
-DO NOT use the github file editor or uploader as the primary way to manage this repo. They are handy for smalkl edits in a pinch, but do not reflect the true power and purpose of git. We expect you to have a properly checkedout copy of this repo on each computer you routinely work from, and that you use proper commits, pushing and pulling to github as a matter of routine.
-
-## Notes
-* Do not share teaching materials provided in this unit online. That include lecture notes, sample code, spike documents, as well as your own work that could be inappropriately used by someone else.
-* TODO: Learn to use markdown! There are many introduction and tutorials to markdown.
-  Here is one https://bitbucket.org/tutorials/markdowndemo/src/master/
-* Empty folders are not added to git. Add .gitignore files (which contain nothing) to empty folders to force git to notice and add them.
-
-## About Not Sharing Unit Materials and Your Work Publically.
-
-You may think that asking you not to share teaching resources online, and not sharing your own work, is restrictive. However, we require this to protect both your work from misuse, as well as to limit issues with teaching materials being shared in an uncontrolled way.
