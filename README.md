@@ -2,9 +2,9 @@
 
 TODO: Add your name, student id, and easy email link here, formatted as a unordered list.
 
-* ✏ Keeth Christy Alphones
-* 104024402
-* 104024402@student.swin.edu.au
+✏  Keeth Christy Alphones
+🆔 104024402
+📧 104024402@student.swin.edu.au
 
 
 ## Purpose
