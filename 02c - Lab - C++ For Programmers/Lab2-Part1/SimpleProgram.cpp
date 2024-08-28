@@ -18,6 +18,19 @@ void loopfor20() {
 	}
 }
 
+void Random1D() {
+	int basicarray[] = { 1, 2, 3, 4, 5 };
+	for (int i = 0; i < 5; i++) {
+		cout << basicarray[i];
+	}
+}
+
+void splitwithspaces() {
+	string hasspaces = "this has spaces in it";
+}
+
+
+
 
 int main() {
 	//1A
@@ -25,13 +38,18 @@ int main() {
 	//1B
 	cout << "\n" << thisfunctionaltersstuff(5);
 	//
-	// 1C: Pointers - DO LATER, CANT BE ASSED
+	// 1C: Pointers - ill come back to this
 	//
 	cout << "\n";
 	//1D
 	loopfor20();
+	cout << "\n";
 	//1E
-
+	Random1D();
+	//1F
+	// 
+	// 
+	//1G
 }
 
 
